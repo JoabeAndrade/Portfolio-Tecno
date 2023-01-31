@@ -6,13 +6,7 @@ function Navbar() {
   return (
     <header>
         <h1 className='logo'><a href="#">Gentium</a></h1>
-        <nav>
-            <div className='mobile-menu'>
-                <div className='line1'></div>
-                <div className='line2'></div>
-                <div className='line3'></div>
-            </div>
-            
+        <nav>            
             <ul className='menu'>
                 <li><a href="#" className='nav-link'>Home</a></li>
                 <li><a href="#" className='nav-link'>Services</a></li>

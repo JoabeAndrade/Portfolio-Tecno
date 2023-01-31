@@ -12,3 +12,9 @@ button{
     border-style: solid;
     border-color: #600f24;
 }
+
+button:hover{
+    cursor: pointer;
+    background-color: #600f24;
+    transition: 0.5s ease-in;
+}
